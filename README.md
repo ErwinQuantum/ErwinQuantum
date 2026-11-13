@@ -35,10 +35,10 @@ Java · Spring Boot · Spring Cloud · Python · FastAPI · PostgreSQL · Redis 
 
 ## What I work with
 
-**Backend & data** — Java, Spring, C#/.NET, Python (FastAPI, Django), Node, PostgreSQL, MySQL, MongoDB, Redis, SQL Server
-**Delivery & cloud** — Docker, Kubernetes, Terraform, NGINX, GitHub Actions, Azure DevOps, AWS, Azure, Grafana, SonarQube
-**Frontend** — React, Next.js, Angular, React Native, Vue, Tailwind
-**Quantum** — Q#, Qiskit
+- **Backend & data** — Java, Spring, C#/.NET, Python (FastAPI, Django), Node, PostgreSQL, MySQL, MongoDB, Redis, SQL Server
+- **Delivery & cloud** — Docker, Kubernetes, Terraform, NGINX, GitHub Actions, Azure DevOps, AWS, Azure, Grafana, SonarQube
+- **Frontend** — React, Next.js, Angular, React Native, Vue, Tailwind
+- **Quantum** — Q#, Qiskit
 
 ## Now
 
