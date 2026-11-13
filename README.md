@@ -33,6 +33,15 @@ Projects, works, crews, assignments and permits for builders — and the part I 
 
 Java · Spring Boot · Spring Cloud · Python · FastAPI · PostgreSQL · Redis · Next.js · Docker · Prometheus · Grafana
 
+## This year, under construction
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErwinQuantum/ErwinQuantum/output/city-dark.svg">
+  <img alt="The last year of contributions drawn as a city: one lot per day, each building as tall as that day's work" src="https://raw.githubusercontent.com/ErwinQuantum/ErwinQuantum/output/city-light.svg" width="100%">
+</picture>
+
+<sub>Redrawn every day by a GitHub Action in this repo (<code>city/build.py</code>), private work included as counts only.</sub>
+
 ## What I work with
 
 - **Backend & data** — Java, Spring, C#/.NET, Python (FastAPI, Django), Node, PostgreSQL, MySQL, MongoDB, Redis, SQL Server
